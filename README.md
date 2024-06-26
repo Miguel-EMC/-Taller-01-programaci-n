@@ -12,7 +12,6 @@
 
 - **Descripción**: Calcular el índice h de los autores a partir de datos en formato JSON.
 - **Método de Resolución**: Análisis de artículos y citas para cada autor.
-- **Integrantes**: Miguel Muzo, Dario Suquillo
 
 #### Captura de Pantalla - Xplore
 
@@ -22,7 +21,6 @@
 
 - **Descripción**: Modificar un arreglo para que todos sus elementos sean distintos con la mínima cantidad de operaciones.
 - **Método de Resolución**: Uso de estructuras de datos para mantener elementos únicos.
-- **Integrantes**: Miguel Muzo, Dario Suquillo
 
 #### Captura de Pantalla - Make Distinct
 
@@ -32,7 +30,6 @@
 
 - **Descripción**: Adivinar una secuencia de bits interactuando con un troll que da pistas sobre la cantidad correcta de bits.
 - **Método de Resolución**: Estrategia de consulta iterativa para encontrar la secuencia correcta.
-- **Integrantes**: Miguel Muzo, Dario Suquillo
 
 #### Captura de Pantalla - Troll Coder
 
@@ -40,4 +37,4 @@
 
 ---
 
-Este informe incluye capturas de pantalla de los resultados obtenidos en cada problema, así como explicaciones detalladas de los métodos utilizados y los nombres de los integrantes del equipo.
+Este informe incluye capturas de pantalla de los resultados obtenidos en cada problema y explicaciones detalladas de los métodos utilizados para resolverlos.
