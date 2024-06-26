@@ -34,7 +34,3 @@
 #### Captura de Pantalla - Troll Coder
 
 ![Captura de Pantalla - Troll Coder](ruta/a/tu/captura_de_ejemplo_troll_coder.png)
-
----
-
-Este informe incluye capturas de pantalla de los resultados obtenidos en cada problema y explicaciones detalladas de los métodos utilizados para resolverlos.
