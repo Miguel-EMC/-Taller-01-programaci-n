@@ -8,13 +8,13 @@
 
 ## 📄 Descripción General
 
-En este taller, deberá resolver los problemas listados anteriormente en la plataforma de CS Academy. Cada problema está diseñado para evaluar y mejorar sus habilidades en programación y resolución de problemas.
+En este taller, los participantes deben resolver los problemas listados anteriormente en la plataforma de CS Academy. Cada problema está diseñado para evaluar y mejorar sus habilidades en programación y resolución de problemas.
 
-Una vez haya resuelto los problemas, prepare su entrega asegurándose de seguir estos pasos:
+Una vez resueltos los problemas, los participantes deben preparar su entrega asegurándose de seguir estos pasos:
 
-1. **📂 Subir el Proyecto**: Cree un repositorio en GitHub y suba todo su código fuente al mismo. Asegúrese de que el repositorio sea público o que nos proporcione acceso al mismo.
+1. **📂 Subir el Proyecto**: Crear un repositorio en GitHub y subir todo el código fuente al mismo. Asegurarse de que el repositorio sea público o que se proporcione acceso al mismo.
 
-2. **📸 Captura de Pantalla de Resultados**: Realice una captura de pantalla de sus resultados en la plataforma de CS Academy. La captura de pantalla debe incluir:
+2. **📸 Captura de Pantalla de Resultados**: Realizar una captura de pantalla de los resultados obtenidos en la plataforma de CS Academy. La captura de pantalla debe incluir:
     - 📅 Fecha de envío
     - 👤 Nickname (por ejemplo: Miguel Muzo, Dario Suquillo, etc.)
     - 🏅 Puntuación obtenida
@@ -63,7 +63,7 @@ Se debe realizar la menor cantidad de operaciones posibles para que todos los el
 ### 🧩 Troll Coder
 
 **Descripción**:
-Resolver una secuencia de bits interactuando con un troll que te da pistas sobre cuántos bits has adivinado correctamente.
+Resolver una secuencia de bits interactuando con un troll que proporciona pistas sobre cuántos bits se han adivinado correctamente.
 
 **Enfoque**:
 1. Generar secuencias de bits y realizar consultas al troll.
@@ -72,4 +72,4 @@ Resolver una secuencia de bits interactuando con un troll que te da pistas sobre
 
 ---
 
-Por favor, siga todas las instrucciones detalladamente para asegurar que su envío sea válido y completo.
+Por favor, seguir todas las instrucciones detalladamente para asegurar que el envío sea válido y completo.
