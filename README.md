@@ -8,9 +8,9 @@
 
 ## 📄 Descripción General
 
-En este taller, los participantes deben resolver los problemas listados anteriormente en la plataforma de CS Academy. Cada problema está diseñado para evaluar y mejorar sus habilidades en programación y resolución de problemas.
+En este taller, se deben resolver los problemas listados anteriormente en la plataforma de CS Academy. Cada problema está diseñado para evaluar y mejorar las habilidades en programación y resolución de problemas.
 
-Una vez resueltos los problemas, los participantes deben preparar su entrega asegurándose de seguir estos pasos:
+Una vez resueltos los problemas, se debe preparar la entrega asegurándose de seguir estos pasos:
 
 1. **📂 Subir el Proyecto**: Crear un repositorio en GitHub y subir todo el código fuente al mismo. Asegurarse de que el repositorio sea público o que se proporcione acceso al mismo.
 
@@ -72,4 +72,4 @@ Resolver una secuencia de bits interactuando con un troll que proporciona pistas
 
 ---
 
-Por favor, seguir todas las instrucciones detalladamente para asegurar que el envío sea válido y completo.
+Seguir todas las instrucciones detalladamente para asegurar que el envío sea válido y completo.
