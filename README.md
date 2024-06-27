@@ -15,7 +15,7 @@
 
 #### Captura de Pantalla - Xplore
 
-![Captura de Pantalla - Xplore](ruta/a/tu/captura_de_ejemplo_xplore.png)
+![Captura de Pantalla - Xplore](./images/xplore.png)
 
 ### 🗃️ Make Distinct
 
@@ -24,7 +24,7 @@
 
 #### Captura de Pantalla - Make Distinct
 
-![Captura de Pantalla - Make Distinct](ruta/a/tu/captura_de_ejemplo_make_distinct.png)
+![Captura de Pantalla - Make Distinct](./images/make-distinct.png)
 
 ### 🧩 Troll Coder
 
@@ -33,4 +33,4 @@
 
 #### Captura de Pantalla - Troll Coder
 
-![Captura de Pantalla - Troll Coder](ruta/a/tu/captura_de_ejemplo_troll_coder.png)
+![Captura de Pantalla - Troll Coder](./images/troll-coder.png)
