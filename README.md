@@ -1,5 +1,12 @@
 # 🖥️ [Taller 01] Programación
 
+### Integrantes ✒️
+
+_Todos los colaboradores del proyecto desde sus inicios son:_
+
+- Miguel Muzo
+- Diego Suquillo
+---
 ## 📋 Problemas a Resolver
 
 1. [🧭 Xplore](https://csacademy.com/ieeextreme-practice/task/xplore/)
